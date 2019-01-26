@@ -1,6 +1,6 @@
 token= NTM3Njc1MjkwNzUxNTMzMDYy.Dyosqg.St7l5s5D4qgwECaVUZtl1KFklAY 
-owner= 464276425847996437 
+owner= 523832987104837642 
 prefix= 2
-game=  !Queit Bomb 
+game=  Tyep 2help
 stayinchannel=true 
 songinstatus=false 
