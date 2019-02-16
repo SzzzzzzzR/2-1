@@ -1,6 +1,6 @@
-token= NTM3Njc1MjkwNzUxNTMzMDYy.Dyosqg.St7l5s5D4qgwECaVUZtl1KFklAY 
-owner= 366218441230778368 
-prefix= 2
-game=  Tyep 2help
+token= NTEzMjUzMTI5MjMyMzE4NDY0.D0k8Bw.uZ5SsBTTevUIQxuC9SknVYQ-Hds
+owner= 290819338829824000 
+prefix= Y
+game=  Tyep Yhelp
 stayinchannel=true 
 songinstatus=false 
